@@ -1,2 +1,2 @@
 # SolutionArchitectures
-Solution Architectures of the most know Fortune 500 fortunes
+Solution Architectures of the most known Fortune 500 fortunes
